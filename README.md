@@ -3,7 +3,7 @@ This is the GitHub repository for my major final project.
 
 **ARRANCAR:**
 
-Ejecutar "initScript.py" en el mismo directorio que se encuentre "Dockerfile"
+Ejecutar "initScript.py" en el mismo directorio en el que se encuentre "Dockerfile"
 
 `python initScript.py`
 
